@@ -1,0 +1,6 @@
+[submodule "arcanist"]
+	path = arcanist
+	url = https://github.com/AWildErin/arcanist
+[submodule "phorge"]
+	path = phorge
+	url = https://github.com/AWildErin/phorge
