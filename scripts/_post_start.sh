@@ -6,6 +6,6 @@ cd /workspace
 git submodule update --init --recursive
 sudo apache2ctl restart
 
-echo 'Configuring mysql'
+echo 'Configuring phorge'
 cd scripts
-./mysql_setup.sh
+./phorge_setup.sh
